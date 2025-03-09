@@ -1,0 +1,24 @@
+img.main {
+    width: 300;
+    height: 300;
+}
+
+body {
+    background-color: black;
+    color: white;  
+    text-align: center;
+}
+
+button { 
+    background-color: gray;
+    }
+    
+   a:visited {color: white;}
+
+   body {
+    font-family: Verdana, Arial, sans-serif;
+   }
+
+.homenames {
+    font-size: 12px;
+}
