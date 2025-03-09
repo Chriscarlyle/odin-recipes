@@ -3,11 +3,20 @@ img.main {
     height: 300;
 }
 
+
+.recbody {
+    text-align: left;
+}
+
+.indbody {
+    text-align: center;
+}
+
 body {
     background-color: black;
     color: white;  
-    text-align: center;
 }
+
 
 button { 
     background-color: gray;
